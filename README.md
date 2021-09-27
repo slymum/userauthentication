@@ -11,7 +11,7 @@
 
 ## how to use 
     
-1.the system is bootstrapped with 1 admin user, 2 supervisors and 5 team members for each supervisor
+ 1.the system is bootstrapped with 1 admin user, 2 supervisors and 5 team members for each supervisor
 
 2. default password for all users is password
 
