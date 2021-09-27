@@ -17,7 +17,7 @@
 
 3. to access to users CRUD, please retrieve the user token first through <http://localhost:3000/api-docs/#/JWT/post_jwt> by provide the username and password for user to generated JWT
 
-4. once the JWT is retrieved, you can use the jwt in swagger or any rest client to call to any api with authorization : Bearer <token> in the header
+4. once the JWT is retrieved, you can use the jwt in swagger or any rest client to call to any api with authorization : Bearer token in the header
 
 ![img.png](img.png)
 
