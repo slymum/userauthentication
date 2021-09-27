@@ -11,8 +11,11 @@
 
 ## how to use 
 1.the system is bootstrapped with 1 admin user, 2 supervisors and 5 team members for each supervisor
+
 2. default password for all users is password
+
 3. to access to users CRUD, please retrieve the user token first through <http://localhost:3000/api-docs/#/JWT/post_jwt> by provide the username and password for user to generated JWT
+
 4. all username information are below (default password is password):
 
 
@@ -25,6 +28,7 @@
       supervisor1's members: emp10, emp11,emp12,emp13,emp14
   
 
+for more information about users, please check <https://github.com/slymum/userauthentication/blob/main/users.txt>
 
 
 
