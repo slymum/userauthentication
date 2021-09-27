@@ -6,7 +6,7 @@
 3. npm start 
 4. access swagger UI at: <http://localhost:3000/api-docs/>
 
-**NOTE:** server is running on port 3000 by default  , please check the port number if it is required <https://github.com/slymum/userauthentication/blob/main/configs/serverConfig.js>
+**NOTE:** server is running on port 3000 by default  , please change the port number if it is required <https://github.com/slymum/userauthentication/blob/main/configs/serverConfig.js>
 
 
 ## how to use
