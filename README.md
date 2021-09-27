@@ -9,9 +9,9 @@
 **NOTE:** server is running on port 3000 by default  , please check the port number if it is required <https://github.com/slymum/userauthentication/blob/main/configs/serverConfig.js>
 
 
-## how to use 
-    
- 1.the system is bootstrapped with 1 admin user, 2 supervisors and 5 team members for each supervisor
+## how to use
+
+1. the system is bootstrapped with 1 admin user, 2 supervisors and 5 team members for each supervisor
 
 2. default password for all users is password
 
