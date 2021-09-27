@@ -1,0 +1,31 @@
+2021-09-27T15:49:33.55 <info>  *******bootstrap  1 ADMIN(s)****** (in bootstrapUsers.js:44)
+2021-09-27T15:49:33.69 <info>  #####created ADMIN user, id: 61522e5d8f9fcaaadfa29f79, username: admin0, default password: password (in bootstrapUsers.js:47)
+2021-09-27T15:49:33.69 <info>
+
+
+**********bootstrap 2 Supervisor(s)********** (in bootstrapUsers.js:50)
+2021-09-27T15:49:33.81 <info>  #####created SUPERVISOR userid: 61522e5d8f9fcaaadfa29f7b, username: supervisor0, default password: password (in bootstrapUsers.js:54)
+2021-09-27T15:49:33.94 <info>  #####created SUPERVISOR userid: 61522e5d8f9fcaaadfa29f7d, username: supervisor1, default password: password (in bootstrapUsers.js:54)
+2021-09-27T15:49:33.94 <info>
+
+
+**********bootstrap team member(s)********** (in bootstrapUsers.js:58)
+2021-09-27T15:49:33.94 <info>
+
+
+*****bootstrap 5 members for supervisor: 61522e5d8f9fcaaadfa29f7b (in bootstrapUsers.js:60)
+2021-09-27T15:49:34.07 <info>  #####created EMP user, id: 61522e5d8f9fcaaadfa29f7f, username: emp00, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7b (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.19 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f81, username: emp01, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7b (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.31 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f83, username: emp02, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7b (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.43 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f85, username: emp03, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7b (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.55 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f87, username: emp04, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7b (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.55 <info>
+
+
+*****bootstrap 5 members for supervisor: 61522e5d8f9fcaaadfa29f7d (in bootstrapUsers.js:60)
+2021-09-27T15:49:34.69 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f89, username: emp10, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7d (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.86 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f8b, username: emp11, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7d (in bootstrapUsers.js:63)
+2021-09-27T15:49:34.99 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f8d, username: emp12, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7d (in bootstrapUsers.js:63)
+2021-09-27T15:49:35.11 <info>  #####created EMP user, id: 61522e5e8f9fcaaadfa29f8f, username: emp13, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7d (in bootstrapUsers.js:63)
+2021-09-27T15:49:35.23 <info>  #####created EMP user, id: 61522e5f8f9fcaaadfa29f91, username: emp14, defaultPassword: password, supervisor 61522e5d8f9fcaaadfa29f7d (in bootstrapUsers.js:63)
+2021-09-27T15:49:35.23 <info>  bootstrap users is done (in index.js:39)
