@@ -26,7 +26,7 @@ module.exports.options = {
         servers: [
             {
                 url: "http://localhost:"+PORT,
-                description: 'ForgeRock Demo',
+                description: 'UserManagement Demo',
 
             },
         ],
