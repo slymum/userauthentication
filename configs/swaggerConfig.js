@@ -1,3 +1,4 @@
+const PORT = require("./serverConfig").PORT
 // config for swagger access at http://localhost:3000/api-docs/
 module.exports.options = {
     swaggerDefinition: {
@@ -24,7 +25,7 @@ module.exports.options = {
         },
         servers: [
             {
-                url: "http://localhost:3000",
+                url: "http://localhost:"+PORT,
                 description: 'ForgeRock Demo',
 
             },
