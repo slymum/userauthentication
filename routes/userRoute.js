@@ -138,6 +138,7 @@ userRouter.get("/", securityUtils.isAuthorized, function (req, res, next) {
  *            type: string
  *          required: true
  *          description: id of the user to get
+ *          example: 61522e5d8f9fcaaadfa29f7b
  *     responses:
  *       '200':
  *         description: user is retrieved successfully
@@ -174,6 +175,7 @@ userRouter.get("/:id", securityUtils.isAuthorized, function (req, res, next) {
  *            type: string
  *          required: true
  *          description: id of the user to delete
+ *          example: 61522e5d8f9fcaaadfa29f7b
  *     responses:
  *       '204':
  *         description: user is deleted successfully, No Content
@@ -205,6 +207,7 @@ userRouter.delete("/:id", securityUtils.isAuthorized, function (req, res, next) 
  *            type: string
  *          required: true
  *          description: id of the user to update
+ *          example: 61522e5d8f9fcaaadfa29f7b
  *     requestBody:
  *       required: true
  *       content:
