@@ -22,12 +22,12 @@ const jwtService = require("../services/jwtService");
  *               type: string
  *               require: true
  *               description: username to authenticate to retrieve user jwt
- *               example: 'testusername'
+ *               example: 'supervisor0'
  *             password:
  *               type: string
  *               require: true
  *               description: password for authentication to generate JWT
- *               example: 'p@SsW0r$'
+ *               example: 'password'
  *     responses:
  *       '200':
  *         description: JWT is created successfully
