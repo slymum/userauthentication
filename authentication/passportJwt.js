@@ -7,7 +7,7 @@ const jwtConfig = require("../configs/jwtConfig")
 
 //option to verify JWT
 let opts = {}
-// extract bearer token from JWT
+// extract bearer token from header
 opts.jwtFromRequest = ExtractJwt.fromAuthHeaderAsBearerToken();
 opts.secretOrKey = jwtConfig.cert;
 opts.issuer = jwtConfig.issuer;
