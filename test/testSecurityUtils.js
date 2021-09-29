@@ -77,7 +77,7 @@ describe('Test securityUtils', function (){
         expect(nextSpy.calledOnce).to.be.true
     })
 
-    it('test authorized  SUPERVISOR role -- GET -- team member list ', async ()=>{
+    it('test authorized  SUPERVISOR role -- GET -- a team member ', async ()=>{
         let req = mockRequest("/users/test2",testData.SUPERVISOR,"GET","test2")
         sinon.stub(userModel, "find").returns(testData.MOCK_FIND_USERS)
         await securityUtils.isAuthorized(req,res,nextSpy)
