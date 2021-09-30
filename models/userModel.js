@@ -50,7 +50,7 @@ UserSchema.pre(['save'], async function(next) {
 });
 
 UserSchema.pre('findOneAndUpdate', async function () {
-    let update = {...this.getUpdate()};
+    let update = this.getUpdate();
 
     // Only run this function if password was modified
     if (update.password){
